@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="167mm"
-   height="53mm"
-   viewBox="0 0 167 53"
+   width="163mm"
+   height="49mm"
+   viewBox="0 0 163 49"
    version="1.1"
    id="svg8"
    inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
@@ -38,16 +38,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70138001"
-     inkscape:cx="165.38823"
-     inkscape:cy="471.21389"
+     inkscape:zoom="1.0528944"
+     inkscape:cx="351.41225"
+     inkscape:cy="-101.62462"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1080"
+     inkscape:window-height="1046"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="34"
      inkscape:window-maximized="0"
      inkscape:pagecheckerboard="1"
      height="296mm" />
@@ -69,20 +69,32 @@
     <rect
        style="fill:#2d3240;fill-opacity:1;stroke-width:1.56675;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.685945"
        id="rect954"
-       width="162.94435"
+       width="162.944"
        height="49.056404"
-       x="1.6224635"
-       y="1.4860609"
-       rx="0" />
+       x="0.01730722"
+       y="0.0029872037"
+       rx="0"
+       ry="8.352354" />
     <text
        xml:space="preserve"
-       transform="matrix(0.71790693,0,0,0.71790693,-28.360271,-151.9775)"
+       transform="matrix(0.66066813,0,0,0.52363285,-27.240921,-101.86022)"
        id="text3601"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:Iosevka;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3603);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="45.119141"
-         y="277.90156"
-         id="tspan1072"><tspan
-           style="font-family:'CMU Typewriter Text Variable Width';-inkscape-font-specification:'CMU Typewriter Text Variable Width';fill:#ffffff"
-           id="tspan1070">Hello</tspan></tspan></text>
+         y="276.19524"
+         id="tspan6496"><tspan
+           style="fill:#ffffff"
+           id="tspan6494">Hello</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:Iosevka;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-6.8486786"
+       y="58.596569"
+       id="text5400"><tspan
+         sodipodi:role="line"
+         id="tspan5398"
+         style="stroke-width:0.264583"
+         x="-6.8486786"
+         y="58.596569"> </tspan></text>
   </g>
 </svg>
