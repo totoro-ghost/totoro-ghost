@@ -24,6 +24,12 @@
        width="571.77429"
        height="241.29497"
        id="rect3603" />
+    <rect
+       x="45.118309"
+       y="189.10129"
+       width="571.77429"
+       height="241.29497"
+       id="rect3603-3" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -62,13 +68,23 @@
      id="layer1">
     <text
        xml:space="preserve"
+       transform="matrix(0.71790693,0,0,0.71790693,-26.89756,-150.35187)"
+       id="text3601-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:Iosevka;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3603-3);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="45.119141"
+         y="277.90156"
+         id="tspan1065"><tspan
+           style="font-family:'CMU Typewriter Text Variable Width';-inkscape-font-specification:'CMU Typewriter Text Variable Width'"
+           id="tspan1063">Hello</tspan></tspan></text>
+    <text
+       xml:space="preserve"
        transform="matrix(0.71790693,0,0,0.71790693,-28.360271,-151.9775)"
        id="text3601"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:Iosevka;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3603);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="45.119141"
          y="277.90156"
-         id="tspan20983"><tspan
+         id="tspan1069"><tspan
            style="font-family:'CMU Typewriter Text Variable Width';-inkscape-font-specification:'CMU Typewriter Text Variable Width';fill:#ffffff"
-           id="tspan20981">Hello</tspan></tspan></text>
+           id="tspan1067">Hello</tspan></tspan></text>
   </g>
 </svg>
