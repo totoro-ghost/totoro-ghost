@@ -1,14 +1,11 @@
-<img height="100px" src="./images/pacman.svg"> <img height="100px" src="./images/hello.svg"> 
+# <img height="100px" src="./images/pacman.svg"> <img height="100px" src="./images/hello.svg"> 
 
----
 
 <img src="./images/linux.svg">
 
 - i like to watch anime
 - i like ricing my wm
 - i also play chess
-
----
 
 ## Connect with me
 
