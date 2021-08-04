@@ -4,6 +4,14 @@
 
 <img src="./images/linux.svg">
 
+- i like to watch anime
+- i like ricing my wm
+- i also play chess
+
+---
+
+## Connect with me
+
 <a href="https://www.instagram.com/totoro_ghost/"><img height="40px" src="./images/ghost-pink.svg"> <img src="./images/insta.svg"></a>
 
 <img height="40px" src="./images/ghost-violet.svg"> <img src="./images/discord.svg"> <img src="./images/discordname.svg">
