@@ -1,6 +1,4 @@
-<img height="100px" src="./images/hello.svg">
-
-<img height="100px" align="center" src="./images/pacman.svg"> 
+<img height="100px" src="./images/hello.svg"> <img height="100px" align="center" src="./images/pacman.svg"> 
 
 ---
 
