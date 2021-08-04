@@ -19,6 +19,12 @@
   <defs
      id="defs2">
     <rect
+       x="15.570497"
+       y="23.423069"
+       width="704.49178"
+       height="247.15358"
+       id="rect3508" />
+    <rect
        x="45.118309"
        y="189.10129"
        width="571.77429"
@@ -39,8 +45,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0528944"
-     inkscape:cx="351.41225"
-     inkscape:cy="-101.62462"
+     inkscape:cx="350.93738"
+     inkscape:cy="233.16678"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -67,7 +73,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#2d3240;fill-opacity:1;stroke-width:1.56675;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.685945"
+       style="fill:#442178;fill-opacity:1;stroke-width:1.56675;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.685945"
        id="rect954"
        width="162.944"
        height="49.056404"
@@ -75,16 +81,6 @@
        y="0.0029872037"
        rx="0"
        ry="8.352354" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.66066813,0,0,0.52363285,-27.240921,-101.86022)"
-       id="text3601"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:Iosevka;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3603);fill:#000000;fill-opacity:1;stroke:none"><tspan
-         x="45.119141"
-         y="276.19524"
-         id="tspan6496"><tspan
-           style="fill:#ffffff"
-           id="tspan6494">Hello</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:Iosevka;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -96,5 +92,13 @@
          style="stroke-width:0.264583"
          x="-6.8486786"
          y="58.596569"> </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,13.851243,-8.2215809)"
+       id="text3506"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:Iosevka;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3508);fill:#ffffff;fill-opacity:1;stroke:none"><tspan
+         x="15.570312"
+         y="197.61118"
+         id="tspan16340">Hello</tspan></text>
   </g>
 </svg>
