@@ -1,27 +1,14 @@
-```bash
-echo "hi! i'm totoro" # hi! i'm totoro
-cat ~/details.yaml
-```
+<h1 align="center">
+  <a href="https://shivanshu-semwal.github.io">Portfolio</a>
+</h1>
 
-```yaml
-user: totoro
-os: GNU/Linux
-wm: i3
-bar: polybar
-launcher:
-- rofi
-- dmenu
-terminal: alacritty
-shell: zsh
-theme:
-- nord
-- one dark
-- ayu dark
-uptime: 22 years
-location: India
-```
+<p align="center">
+  Contact - <a href="mailto:1729code@gmail.com">1729code@gmail.com</a>
+</p>
 
-- `dotfiles` - <https://github.com/totoro-ghost/dotfiles>
-- `rofi-cal` - <https://github.com/totoro-ghost/rofi-cal>
-- `zsh-hacks` - <https://github.com/totoro-ghost/zsh-hacks>
-- `how-to-rice` - <https://github.com/totoro-ghost/how-to-rice>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=totoro-ghost&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=totoro-ghost&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=totor-ghost&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+</p>
